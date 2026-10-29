@@ -2,21 +2,21 @@
 
 <!-- QueryToSerialize: LIST FROM #Personnages -->
 <!-- SerializedQuery: LIST FROM #Personnages -->
-- [[Théodebald]]
-- [[Second Pourfendeur]]
-- [[Santhe]]
-- [[Renze]]
 - [[Pourfendeuse Carmin]]
-- [[Maskim]]
-- [[Kai]]
+- [[Second Pourfendeur]]
 - [[Ja'ar]]
-- [[Halekeis Tsy'kar]]
-- [[Exus]]
-- [[Dardarel]]
-- [[Clément de Tsy'arat]]
-- [[Arthe Khazhail Athanrhi Hakhat]]
 - [[Arfurelle]]
-- [[Arcturien]]
+- [[Clément de Tsy'arat]]
+- [[Dardarel]]
+- [[Théodebald]]
 - [[Akmarna]]
+- [[Arcturien]]
+- [[Arthe Khazhail Athanrhi Hakhat]]
+- [[Exus]]
+- [[Halekeis Tsy'kar]]
+- [[Kai]]
+- [[Maskim]]
+- [[Renze]]
+- [[Santhe]]
 
 <!-- SerializedQuery END -->

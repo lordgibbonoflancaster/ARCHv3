@@ -1,6 +1,8 @@
+---
+title: Accueil
+---
 
 ![[ARCH.png]]
-
 
 # ✦ ARCH ✦
 ### *Chroniques d'un univers où l'on a trop souvent oublié, trop souvent recommencé.*
@@ -22,13 +24,25 @@ Ce wiki rassemble tout ce qu'il faut savoir pour s'y retrouver : **qui** vit là
 
 ## 🧭 L'univers en cinq idées
 
-|                                    |                                                                                                                                                                                           |     |
-| :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 🏛️ **Des anciens disparus**       | Avant tous les peuples actuels, les [[Profanateurs]] ont dominé l'univers pendant des millénaires. Leur chute a laissé des ruines, des légendes déformées et des [[Plans]] antédiluviens. |     |
-| 🧬 **Des espèces façonnées**       | [[Humains]], [[Archelans]], [[Vaals]] : plusieurs peuples sont des variantes retouchées de l'humanité. L'hybridation, la fertilité et l'immortalité y font l'histoire.                    |     |
-| ⚡ **Des énergies dangereuses**     | L'[[Archae]], la [[Magie]] et le [[Crépuscule]] ne sont pas des dons : chacun a un prix.                                                                                                  |     |
-| 🕯️ **Des idéaux qui s'effritent** | Une utopie scientifique devient un régime d'apartheid. Des révolutions en remplacent d'autres. Presque chaque siècle a son génocide.                                                      |     |
-| ⚙️ **Des tueurs endormis**         | Des milliers de [[Mécanides]] sommeillent sous Archelaus, alimentés par l'[[Eru]].                                                                                                        |     |
+- 🏛️ **Des anciens disparus** 
+Avant tous les peuples actuels, les [[Profanateurs]] ont dominé l'univers pendant des millénaires. Leur chute a laissé des ruines, des légendes déformées et des [[Plans]] antédiluviens.
+
+
+- 🧬 **Des espèces façonnées** 
+[[Humains]], [[Archelans]], [[Vaals]] : plusieurs peuples sont des variantes retouchées de l'humanité. L'hybridation, la fertilité et l'immortalité y font l'histoire.
+
+
+- ⚡ **Des énergies dangereuses**
+L'[[Archae]], la [[Magie]] et le [[Crépuscule]] ne sont pas des dons : chacun a un prix.
+
+
+- 🕯️ **Des idéaux qui s'effritent**
+Une utopie scientifique devient un régime d'apartheid. Des révolutions en remplacent d'autres. Presque chaque siècle a son génocide.
+
+
+- ⚙️ **Des tueurs endormis**
+Des milliers de [[Mécanides]] sommeillent sous Archelaus, alimentés par l'[[Eru]].
+
 
 ---
 
@@ -190,4 +204,4 @@ Plusieurs **dizaines** de langues et dialectes, regroupés en familles :
 
 ---
 
-*Dernière mise à jour le 23 octobre 2026*
+*Dernière mise à jour le 29 octobre 2026*

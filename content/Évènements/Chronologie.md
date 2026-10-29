@@ -303,8 +303,8 @@
 - [[Rafle d'argent]]: 785 à 796
 - [[Tentacularisation du parti Gynarchique]]: 786 à 788
 - [[Instauration de la Patriarchie Kae]]: 786
-- [[Gynarchisation des cités Caesiennes]]: 786 à 788
 - [[Gynarchisation des Relieurs Internes]]: 786 à 788
+- [[Gynarchisation des cités Caesiennes]]: 786 à 788
 - [[Guerre Civile Caesienne]]: 786 à 808
 - [[Coup d'État militaire Caesien]]: 786
 - [[Baisse du pouvoir des Relieurs]]: 786 à 790
@@ -399,8 +399,8 @@
 - [[Fondation de l'Ost d'Or]]: 1400
 - [[Création de Synthèse]]: 1400
 - [[Tremblements de terre massifs]]: 1401
-- [[Mort de la 5e Angonne]]: 1401
 - [[Mort de Sythèse]]: 1401
+- [[Mort de la 5e Angonne]]: 1401
 - [[Création de l’Orfèvre]]: 1410
 - [[L'Orfèvre crée sa première forme physique]]: 1423
 - [[La future 6e Angonne élabore Le Pourfendeur]]: 1423
@@ -436,8 +436,8 @@
 - [[Libération de la Veuve Pourpre]]: 1480
 - [[Série de Massacres Sanglants]]: 1480 à 1484
 - [[Arfurelle pourchasse la Veuve Pourpre]]: 1483
-- [[Période de relâchement de Laurel]]: 1484 à 1559
 - [[Progression de l'Ultra-Libéralisme]]: 1484 à 1559
+- [[Période de relâchement de Laurel]]: 1484 à 1559
 - [[Police de la cohérence]]: 1484 à 1559
 - [[Mort de La Veuve Pourpre]]: 1484
 - [[Conquête des cercles proches de L’Arbre des Mondes]]: 1484 à 1559
