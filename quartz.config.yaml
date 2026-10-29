@@ -273,16 +273,6 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-  - source: github:quartz-community/explorer
-    enabled: true
-    options:
-      folderDefaultState: collapsed
-      folderClickBehavior: link
-      useSavedState: true
-    order: 50
-    layout:
-      position: left
-      priority: 50
 layout:
   groups:
     toolbar:
