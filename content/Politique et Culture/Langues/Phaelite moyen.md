@@ -1,0 +1,12 @@
+___
+- *Classification* : #Langues , [[Langues]]
+- *Liens* : 
+- *Période(s)* : [[Ère Forgeraine]], [[Ère Nocturne]], ~800 à ~1200
+- *Localisation* : [[Archelaus]]
+- *Nations et gouvernements concernés* : [[Phael]]
+- *Langue mère* : [[Vieux Phaelite]]
+- *Langues soeurs* :
+- *Langues filles* :
+- *Influences linguistiques majeures* : Inconnues
+- *Influences linguistiques mineures* : Inconnues
+---

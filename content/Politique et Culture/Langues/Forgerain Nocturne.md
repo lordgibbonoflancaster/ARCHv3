@@ -1,0 +1,12 @@
+___
+- *Classification* : #Langues , [[Langues]]
+- *Liens* : 
+- *Période(s)* : [[Ère Nocturne]], [[Ère de l'Aube]], ~1200 à ~1350
+- *Localisation* : [[Erish]]
+- *Nations et gouvernements concernés* : [[La Forge]]
+- *Langue mère* : [[Forgerain Moyen]]
+- *Langues soeurs* :
+- *Langues filles* : [[Forgerain tardif]]
+- *Influences linguistiques majeures* : Inconnues
+- *Influences linguistiques mineures* : Inconnues
+---

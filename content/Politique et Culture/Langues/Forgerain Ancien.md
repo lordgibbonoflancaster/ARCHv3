@@ -1,0 +1,12 @@
+___
+- *Classification* : #Langues , [[Langues]]
+- *Liens* : 
+- *Période(s)* : [[Ère Forgeraine]], ~50 à ~400
+- *Localisation* : [[Erish]]
+- *Nations et gouvernements concernés* : [[La Forge]]
+- *Langue mère* : [[Archelan Classique]]
+- *Langues soeurs* : [[Beahéen Ancien]], [[Phaelite Ancien]], [[Kae Ancien]]
+- *Langues filles* : [[Forgerain Classique]]
+- *Influences linguistiques majeures* : [[Vaal Classique]], [[Vaal Vulgaire]]
+- *Influences linguistiques mineures* : Inconnues
+---

@@ -1,0 +1,67 @@
+---
+liens:
+  - "[[Ères]]"
+---
+## [[Ère de l'Aube]] *1324 -> 1475*
+<!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère de l'Aube]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
+<!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère de l'Aube]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
+- [[Amélioration des Conditions de vies Humaines]]: 1324 à 1358
+- [[Dégradation des conditions de vies Humaines]]: 1358 à 1376
+- [[Attentat humain]]: 1365
+- [[Corruption du Fer]]: 1370 à 1377
+- [[Fondation de l’Empire de l’Aube]]: 1370
+- [[Persécutions des Humains]]: 1370 à 1375
+- [[Sécession du Fer et Création de l'Acier]]: 1370
+- [[Élection du futur 4e Angon comme Premier Archelan]]: 1370
+- [[Découverte de l'Abysse et de l'Eru par Racine]]: 1372
+- [[Nuit vermeille]]: 1374
+- [[Coup d’État et Exil du 4e Angon]]: 1375
+- [[Le 4e Angon rejoint l'Acier]]: 1375
+- [[Nomination du 4e Angon]]: 1375
+- [[Bataille d’Arunai]]: 1376
+- [[Mort du 4e Angon]]: 1376
+- [[Reconquête de l’Empire]]: 1376
+- [[Seconde Guerre Archelanne]]: 1376 à 1377
+- [[Naissance de la future 5e Angonne]]: 1377
+- [[Refondation de l'Aube]]: 1377
+- [[Traité de l'Azur]]: 1377
+- [[Fraction d'entre Racine et l'Orfèvrerie]]: 1396
+- [[Fuite de Racine dans L’Abysse]]: 1397
+- [[Guerre Racino-Forge sur Erish]]: 1397
+- [[Création de Synthèse]]: 1400
+- [[Fondation de l'Ost d'Or]]: 1400
+- [[Nomination de la 5e Angonne]]: 1400
+- [[Mort de Sythèse]]: 1401
+- [[Mort de la 5e Angonne]]: 1401
+- [[Tremblements de terre massifs]]: 1401
+- [[Création de l’Orfèvre]]: 1410
+- [[L'Orfèvre crée sa première forme physique]]: 1423
+- [[La future 6e Angonne élabore Le Pourfendeur]]: 1423
+- [[Destruction d’un Pourfendeur]]: 1424
+- [[Mort de la 6e Angonne]]: 1424
+- [[Nomination de la 6e Angonne]]: 1424
+- [[Nomination du 7e Angon]]: 1443
+- [[Montée au pouvoir du 7e Angon sur L’Aube]]: 1447
+- [[Fraction d’entre Le Marteau et L’Enclume]]: 1466
+- [[Guerre Civile Forgeraine]]: 1466 à 1470
+- [[3e Résurgence du Crépuscule]]: 1467
+- [[Aube éclipsée]]: 1467
+- [[Le 7e Angon devient esclave de L’Enclume]]: 1467
+- [[Destruction d’Erish]]: 1469
+- [[Fuite du Marteau vers Archelaus]]: 1469
+- [[Bataille des Pétales ébènes]]: 1470
+- [[Invasion de L’Enclume sur Archelaus]]: 1470
+- [[Mort du 7e Angon]]: 1470
+- [[Nouvelle disparition du Crépuscule]]: 1470
+- [[Vitrification du continent d’Ehran]]: 1470
+- [[Bataille des roches célèstes]]: 1474
+- [[Bataille des torrents]]: 1474
+- [[Guerre des myriades]]: 1474
+- [[L’Orfèvrerie intègre la Cabale]]: 1474
+- [[Nomination du 8e Angon]]: 1474
+- [[Exus est enlevée puis torturée]]: 1475
+- [[Génocide Philosophique]]: 1475
+- [[Massacre de l’Orée Carmin]]: 1475
+- [[Massacre des Roses Sanguines]]: 1475
+
+<!-- SerializedQuery END -->

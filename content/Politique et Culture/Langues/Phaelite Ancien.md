@@ -1,0 +1,12 @@
+___
+- *Classification* : #Langues , [[Langues]]
+- *Liens* : 
+- *Période(s)* : [[Ère Forgeraine]], ~50 à ~400
+- *Localisation* : [[Archelaus]]
+- *Nations et gouvernements concernés* : [[Phael]]
+- *Langue mère* : [[Archelan Classique]]
+- *Langues soeurs* : [[Kae Ancien]], [[Beahéen Ancien]], [[Forgerain Ancien]]
+- *Langues filles* : [[Phaelite moyen]]
+- *Influences linguistiques majeures* : Inconnues
+- *Influences linguistiques mineures* : Inconnues
+---

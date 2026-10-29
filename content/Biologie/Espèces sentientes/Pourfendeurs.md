@@ -1,0 +1,12 @@
+---
+liens:
+  - "[[Espèces]]"
+  - "[[L'Orfèvrerie]]"
+---
+---
+- *Classification* : #Espèces, [[Espèces]]
+- *Planète d'origine (si connue)* : Aucune
+- *Espèce d'origine (si connue)* : Aucune
+- *Date d'apparition (si connue)* : 1423
+- *Date de disparition (si connue)* : 1637
+---

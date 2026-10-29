@@ -1,0 +1,15 @@
+---
+liens:
+  - "[[Institutions Politiques]]"
+  - "[[La Forge]]"
+  - "[[Garin|Korris]]"
+  - "[[Humains]]"
+---
+---
+- *Classification* : [[Institutions Politiques]]
+- *Liens* : [[La Forge]], [[Humains]], [[Le Grand-Royaume de Korris|Le Vieux Royaume]]
+- *Période(s)* : [[Ère Forgeraine]]
+- *Localisation* : [[Garin|Korris]], 
+- *Date de début* : 149
+- *Date de fin (optionnel)* : 796
+---

@@ -1,0 +1,12 @@
+___
+- *Classification* : #Langues , [[Langues]]
+- *Liens* : 
+- *Période(s)* : [[Ère Archaïque]], ? à ~-550
+- *Localisation* : [[Erish]] ?
+- *Nations et gouvernements concernés* : ?
+- *Langue mère* : Inconnue
+- *Langues soeurs* : Inconnues
+- *Langues filles* : [[Vaal Archaïque]]
+- *Influences linguistiques majeures* : Inconnues
+- *Influences linguistiques mineures* : [[Langue Y]]
+---

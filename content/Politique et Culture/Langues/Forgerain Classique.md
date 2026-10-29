@@ -1,0 +1,12 @@
+___
+- *Classification* : #Langues , [[Langues]]
+- *Liens* : 
+- *Période(s)* : [[Ère Forgeraine]], ~400 à ~800
+- *Localisation* : [[Erish]]
+- *Nations et gouvernements concernés* : [[La Forge]]
+- *Langue mère* : [[Forgerain Ancien]]
+- *Langues soeurs* :
+- *Langues filles* : [[Forgerain Moyen]]
+- *Influences linguistiques majeures* : Inconnues
+- *Influences linguistiques mineures* : Inconnues
+---

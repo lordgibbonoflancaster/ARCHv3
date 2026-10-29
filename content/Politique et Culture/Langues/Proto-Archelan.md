@@ -1,0 +1,12 @@
+___
+- *Classification* : #Langues , [[Langues]]
+- *Liens* : 
+- *Période(s)* : [[Ère Archaïque]], ? à -535
+- *Localisation* : [[Archelaus]]
+- *Nations et gouvernements concernés* : [[L'Œcumène]], [[Aristocratie des Perles]]
+- *Langue mère* : Inconnue
+- *Langues soeurs* : Inconnues
+- *Langues filles* : [[Archelan Œcuménique]]
+- *Influences linguistiques majeures* : Inconnues
+- *Influences linguistiques mineures* : [[Langue Z]]
+---

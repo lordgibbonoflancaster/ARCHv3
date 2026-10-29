@@ -1,0 +1,12 @@
+___
+- *Classification* : #Langues , [[Langues]]
+- *Liens* : 
+- *Période(s)* : [[Ère Archaïque]], ~-500 à ~-200
+- *Localisation* : [[Erish]]
+- *Nations et gouvernements concernés* : [[Le Serment]]
+- *Langue mère* : [[Proto-Fal]]
+- *Langues soeurs* : Inconnues
+- *Langues filles* : [[Vaal Classique]]
+- *Influences linguistiques majeures* : [[Langue Y]]
+- *Influences linguistiques mineures* : Inconnues
+---

@@ -1,0 +1,12 @@
+___
+- *Classification* : #Langues , [[Langues]]
+- *Liens* : 
+- *Période(s)* : [[Ère Forgeraine]], [[Ère Nocturne]], 806 à ~1200
+- *Localisation* : [[Archelaus]]
+- *Nations et gouvernements concernés* : [[Cae]]
+- *Langue mère* : [[Kae Patriarcal]]
+- *Langues soeurs* : 
+- *Langues filles* : [[Caesien Nocturne]]
+- *Influences linguistiques majeures* : [[Langue X]]
+- *Influences linguistiques mineures* : Inconnues
+---

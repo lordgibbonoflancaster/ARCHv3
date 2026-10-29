@@ -1,0 +1,69 @@
+---
+liens:
+  - "[[Ères]]"
+---
+## [[Ère Forgeraine]] *0 -> 1183*
+<!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Forgeraine]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
+<!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Forgeraine]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
+- [[Fondation de la Forge]]: 0
+- [[Fondation des trois États Archelans]]: 0 à 5
+- [[Premières Guerres Civiles Humaines]]: 0 à 150
+- [[Abandon des possessions Humaines sur Lorus]]: 6
+- [[Découverte affiliation Humanoïdes]]: 7
+- [[Lois Forgeraines sur la repopulation]]: 7 à 10
+- [[Stérilisation des colonies Korrisiennes et Génocides]]: 7 à 12
+- [[Popularisation des Relieurs]]: 31
+- [[Découverte Forgeraine des États Archelans]]: 77
+- [[Début de la Mission de Sécurité Planétaire]]: 149
+- [[Fondation d'Interstice-1]]: 149 à 151
+- [[Attaques druidiques]]: 211 à 213
+- [[Auto-Exil de Halekeis sur Korrin]]: 213
+- [[Soulèvement de Ka'arat]]: 213
+- [[Première colonie marchande Béaheènne]]: 281
+- [[Bataille des Silences]]: 300
+- [[Grande Rupture]]: 300
+- [[Comission d'enquête et refonte d'Interstice]]: 301
+- [[Construction d'Interstice-2]]: 304
+- [[Fondations des cités Caesiennes]]: 318 à 450
+- [[Grande Chasse]]: 318
+- [[Patriarcalisation de Kae]]: 318 à 786
+- [[Première chute démographique caesienne]]: 318
+- [[Apogée Béaheènne]]: 335 à 342
+- [[La Frénésie]]: 342
+- [[Rafle d'argent]]: 785 à 796
+- [[Retour d'Alegeus sur Lorus]]: 785
+- [[Coup d'État militaire Caesien]]: 786
+- [[Guerre Civile Caesienne]]: 786 à 808
+- [[Gynarchisation des Relieurs Internes]]: 786 à 788
+- [[Gynarchisation des cités Caesiennes]]: 786 à 788
+- [[Instauration de la Patriarchie Kae]]: 786
+- [[Tentacularisation du parti Gynarchique]]: 786 à 788
+- [[Coup d'État Gynarchique]]: 788
+- [[Égalitarisation]]: 788 à 790
+- [[Seconde chute démographique caesienne]]: 790 à 792
+- [[Séparatisme des Cités Caesiennes]]: 790 à 792
+- [[Gynarchisation des Guildes]]: 791
+- [[Traité de Chair]]: 792
+- [[Centralisation du pouvoir Caesien]]: 793 à 806
+- [[Début de l'oppression des minorités Caesiennes]]: 793 à 806
+- [[Gynarchisation de l'Église de la Paix]]: 793 à 806
+- [[Tentative de Coup d'État par l'Église de la Paix]]: 793
+- [[Grande Mort]]: 794 à 796
+- [[Rébellion Finale]]: 806 à 808
+- [[Tentative d'assassinat de la Gynarque]]: 806
+- [[Gynarchisation des Cités Béaheènnes Nordistes]]: 810 à 1184
+- [[Grande Expansion]]: 825 à 828
+- [[Grandes Pénuries]]: 825 à 827
+- [[Arrivée d'Alegeus sur Archelaus]]: 827
+- [[Second Génocide Archelan]]: 827 à 828
+- [[Influence d'Alegeus sur la culture Phaelite]]: 828 à 835
+- [[Boom Scientifique Phaelite]]: 835 à 870
+- [[Industrialisation du Phael]]: 835 à 950
+- [[Libéralisation Phaelite]]: 835
+- [[Révolution Phaelite]]: 835
+- [[Industrialisation Béaheènne]]: 841 à 1321
+- [[Industrialisation Caesienne]]: 872 à 930
+- [[Massacre des chefs Forgerains]]: 1181
+- [[Purge des Sicaires]]: 1181 à 1183
+
+<!-- SerializedQuery END -->

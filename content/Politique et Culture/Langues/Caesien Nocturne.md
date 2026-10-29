@@ -1,0 +1,12 @@
+___
+- *Classification* : #Langues , [[Langues]]
+- *Liens* : 
+- *Période(s)* : [[Ère Nocturne]], ~1200 à ~1350
+- *Localisation* : [[Archelaus]]
+- *Nations et gouvernements concernés* : [[Cae]]
+- *Langue mère* : [[Caesien Gynarchique]]
+- *Langues soeurs* : 
+- *Langues filles* :
+- *Influences linguistiques majeures* : [[Langue X]]
+- *Influences linguistiques mineures* : Inconnues
+---

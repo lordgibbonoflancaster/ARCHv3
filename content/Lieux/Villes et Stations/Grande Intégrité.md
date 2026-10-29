@@ -1,0 +1,13 @@
+---
+liens:
+  - "[[Villes et Stations]]"
+  - "[[Archelaus]]"
+  - "[[Cae]]"
+---
+---
+- *Classification* :  #Villes-et-Stations, [[Villes et Stations]]
+- *Liens* : [[Cae]]
+- *Localisation* : [[Archelaus]]
+- *Date de début* : 1
+- *Date de fin (optionnel)* : 1469?
+---

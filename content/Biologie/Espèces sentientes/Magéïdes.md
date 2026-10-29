@@ -1,0 +1,13 @@
+---
+liens:
+  - "[[Espèces]]"
+  - "[[Humains]]"
+  - "[[Magie]]"
+---
+---
+- *Classification* : #Espèces, [[Espèces]]
+- *Planète d'origine (si connue)* : [[Garin|Korris]]
+- *Espèce d'origine (si connue)* : Inconnue
+- *Date d'apparition (si connue)* : 1236 
+- *Date de disparition (si connue)* : 1484
+---
