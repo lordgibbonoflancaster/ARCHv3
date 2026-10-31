@@ -4,7 +4,7 @@ liens:
 aliases:
 ---
 ___
-- *Classification* : [[Incohérences]]
+- *Classification* : #Incohérences , [[Incohérences]]
 - *Liens* :
 - *Alias* : 
 ---

@@ -6,7 +6,7 @@ aliases:
   - Technologies Schématiques
 ---
 ___
-- *Classification* : [[Incohérences]]
+- *Classification* : #Incohérences , [[Incohérences]]
 - *Alias* : Schémas, Technologies Schématiques
 - *Liens* :
 ---

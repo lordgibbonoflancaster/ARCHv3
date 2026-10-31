@@ -7,6 +7,6 @@ ___
 - *Langue mère* : [[Caesien Gynarchique]]
 - *Langues soeurs* : 
 - *Langues filles* :
-- *Influences linguistiques majeures* : [[Langue X]]
+- *Influences linguistiques majeures* : [[Langue X']]
 - *Influences linguistiques mineures* : Inconnues
 ---

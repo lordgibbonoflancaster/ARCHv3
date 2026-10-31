@@ -9,7 +9,7 @@ aliases:
   - Eleuks
 ---
 ___
-- *Classification* : [[Incohérences]]
+- *Classification* : #Incohérences , [[Incohérences]]
 - *Liens* : [[L'Éclat]]
 - *Alias* : Erux, Iru, Eruks, Eleuks
 ---

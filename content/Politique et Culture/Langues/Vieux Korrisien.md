@@ -4,7 +4,7 @@ ___
 - *Période(s)* : [[Ère Archaïque]], [[Ère Forgeraine]] ~-200 à ~100
 - *Localisation* : [[Garin|Korris]], [[Zier]], [[Erish]] (de -14 à 0), [[Bazel]] + Autres planètes
 - *Nations et gouvernements concernés* : [[Le Grand-Royaume de Korris]]
-- *Langue mère* : [[Langue X]]
+- *Langue mère* : [[Langue X']]
 - *Langues soeurs* : [[Langue X']]
 - *Langues filles* : [[Korrisien moyen]]
 - *Influences linguistiques majeures* : Inconnues

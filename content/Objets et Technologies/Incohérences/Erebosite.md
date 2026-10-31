@@ -5,7 +5,7 @@ aliases:
   - Hrekwos
 ---
 ___
-- *Classification* : [[Incohérences]]
+- *Classification* : #Incohérences , [[Incohérences]]
 - *Liens* :
 - *Alias* : Hrekwos
 ---

@@ -5,7 +5,7 @@ aliases:
   - Piliers
 ---
 ___
-- *Classification* : [[Incohérences]]
-- *Liens* :
+- *Classification* : #Incohérences , [[Incohérences]]
+- *Liens* : [[Erebosite]]
 - *Alias* : Piliers
 ---
