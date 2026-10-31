@@ -204,4 +204,4 @@ Plusieurs **dizaines** de langues et dialectes, regroupés en familles :
 
 ---
 
-*Dernière mise à jour le 29 octobre 2026*
+*Dernière mise à jour le 31 octobre 2026*

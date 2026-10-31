@@ -7,6 +7,6 @@ ___
 - *Langue mère* : [[Kae Patriarcal]]
 - *Langues soeurs* : 
 - *Langues filles* : [[Caesien Nocturne]]
-- *Influences linguistiques majeures* : [[Langue X]]
+- *Influences linguistiques majeures* : [[Langue X']]
 - *Influences linguistiques mineures* : Inconnues
 ---
