@@ -1,3 +1,12 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+a.internal {
+  background-color: transparent !important;
+}
+
+h1 a.internal, h2 a.internal, h3 a.internal, 
+h4 a.internal, h5 a.internal, h6 a.internal {
+  background-color: transparent !important;
+}
